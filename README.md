@@ -1,6 +1,7 @@
 # Karekök Oyunu
 
  
+[Oynamak için tıklayın](https://ahmetesatkaya.github.io/karekok-oyunu)
 
 > Kareköklü ifadelerin karşılıklarıyla eşleştirilmesine dayanan hızın ve matematik bilgisinin çok önemli olduğu bir oyun
 > 
@@ -17,4 +18,3 @@
 - 1.4 Ses Eklendi
 
 - 1.5 Ayarlar Menüsü Eklendi
-ahmetesatkaya.github.io/Word-Match
