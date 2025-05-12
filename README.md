@@ -1,7 +1,7 @@
 # Karekök Oyunu
 
  
-[Oynamak için tıklayın](https://ahmetesatkaya.github.io/karekok-oyunu)
+[Oynamak için tıklayın](https://pcontum.github.io/karekok-oyunu)
 
 > Kareköklü ifadelerin karşılıklarıyla eşleştirilmesine dayanan hızın ve matematik bilgisinin çok önemli olduğu bir oyun
 > 
